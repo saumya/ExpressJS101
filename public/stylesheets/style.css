@@ -10,3 +10,7 @@ a {
 */
 
 /* application style */
+
+body {
+	padding-top: 70px; /* Bootstrap: Nav */
+}
