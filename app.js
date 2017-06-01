@@ -5,7 +5,7 @@
 //ref: https://stackoverflow.com/questions/7067966/how-to-allow-cors
 //
 var allowCrossDomain = function(req, res, next) {
-
+	console.log('allowCrossDomain:middleware');
     //res.header('Access-Control-Allow-Origin', 'example.com');
     //res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
     //res.header('Access-Control-Allow-Headers', 'Content-Type');
