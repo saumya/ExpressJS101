@@ -1,4 +1,4 @@
-//
+// All that is there to Express is Routes and render a page as per it.
 
 //
 //CORS middleware 
