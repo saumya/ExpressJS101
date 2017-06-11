@@ -1,5 +1,6 @@
 // All that is there to Express is Routes and render a page as per it.
-
+// Its better to make an API layer with Express
+//
 //
 //CORS middleware 
 //ref: https://stackoverflow.com/questions/7067966/how-to-allow-cors
